@@ -1,0 +1,13 @@
+C:\Users\Kodo\Documents\GitHub\CsharpCFB\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.exe
+C:\Users\Kodo\Documents\GitHub\CsharpCFB\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.deps.json
+C:\Users\Kodo\Documents\GitHub\CsharpCFB\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.runtimeconfig.json
+C:\Users\Kodo\Documents\GitHub\CsharpCFB\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.runtimeconfig.dev.json
+C:\Users\Kodo\Documents\GitHub\CsharpCFB\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.dll
+C:\Users\Kodo\Documents\GitHub\CsharpCFB\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.pdb
+C:\Users\Kodo\Documents\GitHub\CsharpCFB\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.csproj.AssemblyReference.cache
+C:\Users\Kodo\Documents\GitHub\CsharpCFB\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.AssemblyInfoInputs.cache
+C:\Users\Kodo\Documents\GitHub\CsharpCFB\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.AssemblyInfo.cs
+C:\Users\Kodo\Documents\GitHub\CsharpCFB\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Kodo\Documents\GitHub\CsharpCFB\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.dll
+C:\Users\Kodo\Documents\GitHub\CsharpCFB\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.pdb
+C:\Users\Kodo\Documents\GitHub\CsharpCFB\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Kodo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kodo\\.nuget\\packages"
+    ]
+  }
+}
