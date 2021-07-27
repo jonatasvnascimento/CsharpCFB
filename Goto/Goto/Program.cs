@@ -59,7 +59,7 @@ namespace Goto
                 
             }else
             {
-                Console.WriteLine($"O tempo para e essa viagem e de {(float)tempo / 60}h");
+                Console.WriteLine("O tempo para e essa viagem e de {0:0}h", ((float)tempo / 60));
             }
 
             Console.WriteLine("Deseja continuas?");
