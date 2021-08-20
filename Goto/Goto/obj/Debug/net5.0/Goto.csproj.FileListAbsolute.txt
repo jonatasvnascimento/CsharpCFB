@@ -1,0 +1,16 @@
+C:\Users\Jonatas\Documents\GitHub\CsharpCFB\Goto\Goto\bin\Debug\net5.0\Goto.exe
+C:\Users\Jonatas\Documents\GitHub\CsharpCFB\Goto\Goto\bin\Debug\net5.0\Goto.deps.json
+C:\Users\Jonatas\Documents\GitHub\CsharpCFB\Goto\Goto\bin\Debug\net5.0\Goto.runtimeconfig.json
+C:\Users\Jonatas\Documents\GitHub\CsharpCFB\Goto\Goto\bin\Debug\net5.0\Goto.runtimeconfig.dev.json
+C:\Users\Jonatas\Documents\GitHub\CsharpCFB\Goto\Goto\bin\Debug\net5.0\Goto.dll
+C:\Users\Jonatas\Documents\GitHub\CsharpCFB\Goto\Goto\bin\Debug\net5.0\ref\Goto.dll
+C:\Users\Jonatas\Documents\GitHub\CsharpCFB\Goto\Goto\bin\Debug\net5.0\Goto.pdb
+C:\Users\Jonatas\Documents\GitHub\CsharpCFB\Goto\Goto\obj\Debug\net5.0\Goto.csproj.AssemblyReference.cache
+C:\Users\Jonatas\Documents\GitHub\CsharpCFB\Goto\Goto\obj\Debug\net5.0\Goto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonatas\Documents\GitHub\CsharpCFB\Goto\Goto\obj\Debug\net5.0\Goto.AssemblyInfoInputs.cache
+C:\Users\Jonatas\Documents\GitHub\CsharpCFB\Goto\Goto\obj\Debug\net5.0\Goto.AssemblyInfo.cs
+C:\Users\Jonatas\Documents\GitHub\CsharpCFB\Goto\Goto\obj\Debug\net5.0\Goto.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\Documents\GitHub\CsharpCFB\Goto\Goto\obj\Debug\net5.0\Goto.dll
+C:\Users\Jonatas\Documents\GitHub\CsharpCFB\Goto\Goto\obj\Debug\net5.0\ref\Goto.dll
+C:\Users\Jonatas\Documents\GitHub\CsharpCFB\Goto\Goto\obj\Debug\net5.0\Goto.pdb
+C:\Users\Jonatas\Documents\GitHub\CsharpCFB\Goto\Goto\obj\Debug\net5.0\Goto.genruntimeconfig.cache
