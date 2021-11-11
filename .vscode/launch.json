@@ -1,4 +1,7 @@
 {
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
         {
@@ -10,9 +13,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Aulas/aula02/bin/Debug/net5.0/aula02.dll",
+            "program": "${workspaceFolder}/Aulas/aula08/bin/Debug/net5.0/aula08.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Aulas/aula02",
+            "cwd": "${workspaceFolder}/Aulas/aula08",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
