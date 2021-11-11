@@ -1,0 +1,1 @@
+cd C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Aulas && mkdir aula13 && cd aula13 && dotnet new console && cd C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Aulas\aula13 && csc Program.cs && cls && C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Aulas\aula13\Program.exe
