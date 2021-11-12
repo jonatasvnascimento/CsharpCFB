@@ -28,40 +28,35 @@ namespace aula14
 
             media = (nota1 + nota2 + nota3 + nota4) / 4;
 
-            if (media >= 9)
+            if (media < 3)
             {
-                result = "Aprovado com Excelência";
+                result = "Reprovado";
             }
+            else
+            {
+                if (media >= 4 && media <= 6)
+                {
+                    result = "Recuperação";
+                }
+                else if (media >= 6 && media <= 7)
+                {
+                    result = "Aprovado";
+                    if (media >= 7 && media <= 8)
+                    {
+                        result = "Aprovado com Distinção";
+                    }
+                    else
+                    {
+                        result = "Aprovado com Louvor";
+                    }
 
-            // if (media >= 6)
-            // {
-            //     if (media >= 8)
-            //     {
-            //         result = "Aprovado com Distinção";
-            //         if (media >= 9)
-            //         {
-            //             result = "Aprovado com Excelência";
-            //         }
-            //     }
-            //     else
-            //     {
-            //         result = "Aprovado";
-            //     }
-            // }
-            // else
-            // {
-            //     if (media > 4 && media < 6)
-            //     {
-            //         result = "Recuperação";
-            //     }
-            //     else
-            //     {
-            //         result = "Reprovado";
-            //     }
-            // }
+                }
+            }
             Console.WriteLine("Resultado: {0} com nota {1}", result, media);
         }
 
+
     }
+
 }
 
