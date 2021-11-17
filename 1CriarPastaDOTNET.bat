@@ -1,1 +1,1 @@
-cd C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Aulas && mkdir aula19 && cd aula19 && dotnet new console && cd C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Aulas\aula19 && csc Program.cs && cls && C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Aulas\aula19\Program.exe
+cd C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Aulas && mkdir aula21 && cd aula21 && dotnet new console && cd C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Aulas\aula21 && csc Program.cs && cls && C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Aulas\aula21\Program.exe
