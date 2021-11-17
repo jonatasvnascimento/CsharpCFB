@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace aula15
+namespace aula16
 {
     class Program
     {
@@ -8,6 +8,9 @@ namespace aula15
         {
             int tempo = 0;
             char opcao = ' ';
+            char escolha = ' ';
+
+        inicio:
 
             Console.WriteLine("São Paulo / Rio de Janeiro");
             Console.WriteLine("Escolha o tranporte: [a]Avião [c]Carro [o]Onibus");
@@ -16,7 +19,9 @@ namespace aula15
 
             if (opcao != 'a' && opcao != 'c' && opcao != 'o')
             {
+                Console.Clear();
                 Console.WriteLine("Opção de transpote invalida");
+                goto inicio;
             }
 
             switch (opcao)
@@ -41,12 +46,20 @@ namespace aula15
             if (tempo < 0)
             {
                 Console.WriteLine("Tranporte não informado");
+                goto inicio;
+                Console.Clear();
             }
             else
             {
                 Console.WriteLine("O tempo informado para a viagem e de {0}", tempo);
             }
 
+            Console.WriteLine("Deseja continuar? [s]sim [n]não");
+            escolha = char.Parse(Console.ReadLine());
+            if (escolha == 'S' || escolha == 's')
+            {
+                goto inicio;
+            }
         }
     }
 }
