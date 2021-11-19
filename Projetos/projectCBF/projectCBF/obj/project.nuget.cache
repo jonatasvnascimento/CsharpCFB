@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fw7mM6XQYT9jgT4KPymie/q+GhZezRlrvTjKR1ht1O4OThH8ycsG9Yt62lP/lQTc2Aw4ZM/PhBM0UVooQKNl+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jnascimento3\\Documents\\GitHub\\CsharpCFB\\Projetos\\projectCBF\\projectCBF\\projectCBF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jnascimento3\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

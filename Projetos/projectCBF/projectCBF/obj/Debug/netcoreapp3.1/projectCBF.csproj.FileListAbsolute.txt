@@ -1,0 +1,14 @@
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Projetos\projectCBF\projectCBF\bin\Debug\netcoreapp3.1\projectCBF.exe
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Projetos\projectCBF\projectCBF\bin\Debug\netcoreapp3.1\projectCBF.deps.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Projetos\projectCBF\projectCBF\bin\Debug\netcoreapp3.1\projectCBF.runtimeconfig.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Projetos\projectCBF\projectCBF\bin\Debug\netcoreapp3.1\projectCBF.runtimeconfig.dev.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Projetos\projectCBF\projectCBF\bin\Debug\netcoreapp3.1\projectCBF.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Projetos\projectCBF\projectCBF\bin\Debug\netcoreapp3.1\projectCBF.pdb
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Projetos\projectCBF\projectCBF\obj\Debug\netcoreapp3.1\projectCBF.csprojAssemblyReference.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Projetos\projectCBF\projectCBF\obj\Debug\netcoreapp3.1\projectCBF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Projetos\projectCBF\projectCBF\obj\Debug\netcoreapp3.1\projectCBF.AssemblyInfoInputs.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Projetos\projectCBF\projectCBF\obj\Debug\netcoreapp3.1\projectCBF.AssemblyInfo.cs
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Projetos\projectCBF\projectCBF\obj\Debug\netcoreapp3.1\projectCBF.csproj.CoreCompileInputs.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Projetos\projectCBF\projectCBF\obj\Debug\netcoreapp3.1\projectCBF.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Projetos\projectCBF\projectCBF\obj\Debug\netcoreapp3.1\projectCBF.pdb
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Projetos\projectCBF\projectCBF\obj\Debug\netcoreapp3.1\projectCBF.genruntimeconfig.cache
