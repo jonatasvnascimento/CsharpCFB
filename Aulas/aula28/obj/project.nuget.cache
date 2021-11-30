@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HhChxCGVk3vAWHNEJMwJezZvMIU8xNLRWJ4e9B6wrfxkiQkJEQZ6XLdbG6MuBom4GANOPrFcqLxhO1fqcf4S0A==",
+  "dgSpecHash": "Z/5oqNZPYTIdL7IE8CcvnMpoOApIUmN5AmSP8309aVvBWp1H2uoXSYMznWxcAUSg1+oSqIh3ZpVLedh0di69wA==",
   "success": true,
   "projectFilePath": "C:\\Users\\jnascimento3\\Documents\\GitHub\\CsharpCFB\\Aulas\\aula28\\aula28.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jnascimento3\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }
