@@ -1,0 +1,16 @@
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Aulas\aula31\bin\Debug\net5.0\aula31.exe
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Aulas\aula31\bin\Debug\net5.0\aula31.deps.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Aulas\aula31\bin\Debug\net5.0\aula31.runtimeconfig.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Aulas\aula31\bin\Debug\net5.0\aula31.runtimeconfig.dev.json
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Aulas\aula31\bin\Debug\net5.0\aula31.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Aulas\aula31\bin\Debug\net5.0\ref\aula31.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Aulas\aula31\bin\Debug\net5.0\aula31.pdb
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Aulas\aula31\obj\Debug\net5.0\aula31.csproj.AssemblyReference.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Aulas\aula31\obj\Debug\net5.0\aula31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Aulas\aula31\obj\Debug\net5.0\aula31.AssemblyInfoInputs.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Aulas\aula31\obj\Debug\net5.0\aula31.AssemblyInfo.cs
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Aulas\aula31\obj\Debug\net5.0\aula31.csproj.CoreCompileInputs.cache
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Aulas\aula31\obj\Debug\net5.0\aula31.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Aulas\aula31\obj\Debug\net5.0\ref\aula31.dll
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Aulas\aula31\obj\Debug\net5.0\aula31.pdb
+C:\Users\jnascimento3\Documents\GitHub\CsharpCFB\Aulas\aula31\obj\Debug\net5.0\aula31.genruntimeconfig.cache
